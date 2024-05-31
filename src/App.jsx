@@ -1,7 +1,6 @@
 import React from "react"
-import Header from "./component/Header"
-import Meme from "./component/Meme"
-import memesData from "./component/memesData"
+import Header from "./components/Header"
+import Meme from "./components/Meme"
 
 
 
